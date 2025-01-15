@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=30&weight=700&lines=Hi+there,+I'm+Lazizbek+Abdullayev;I'm+EternityEgo!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=30&weight=700&lines=Hi+there,+I'm+Asilbek+Muhammadaminov;I'm+YourBroAsilbek37!)
 
 ---
 
@@ -74,12 +74,10 @@
   </a>
 </p>
 
-
 ---
 
 ## 👀 Views and Followers  
 
-<!-- Views and Followers Section -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YourBroAsilbek37&color=gray&style=flat" alt="Profile Views" />
   <a href="https://github.com/YourBroAsilbek37?tab=followers">
